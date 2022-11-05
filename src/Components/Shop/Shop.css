@@ -10,3 +10,12 @@
     margin-top: 50px;
     justify-items: center;
 }
+.cart-container{
+    text-align: center;
+    background: #ffdca8;
+    position: fixed;
+    top: 11.1%;
+    right: 0;
+    padding: 20px;
+    
+}
